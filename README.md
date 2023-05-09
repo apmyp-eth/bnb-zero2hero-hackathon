@@ -1,6 +1,6 @@
 # Decentralized Financial Data Supply Oracle System
 
-Inspired by 
+*Inspired by Chainlink. Made from scratch.*
 
 ## Demo frontend
 
